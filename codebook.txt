@@ -4,7 +4,7 @@ Subjects
 Activity
 
 The means of the following variables were taken for each subject for each given activity:
-While they share the same names, these processed data (averages), not the original data.
+While they share the same names, these are processed data (averages), not the original data.
 	
 tBodyAcc-mean()-X	
 tBodyAcc-mean()-Y	
